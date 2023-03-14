@@ -1,0 +1,38 @@
+Features complete:
+1
+3 -  average speed traveled on any trip
+2 - distance of each trip
+
+Features to Implement:
+
+4 - View # of trips each stop is on
+5 - searches for routes that contains a specific stop by stop_id
+8 - Search for a stop by stop_id and display the next trip
+
+	Assigned
+Sam - 15 - Exporting GTFS files with valid filepath
+Brycen 6 - searches for route by route_id and sees all the stops on the route
+Brycen 7 - Search for a route by route_id and display the trip_id for any trips happening in the future
+Steve  1 - Importing steamlining
+
+
+Too hard:
+9 
+10
+13
+14
+
+Maybe:
+11 - Update any attribute of a stop_time, stop, route, or trip (
+12 - Update any attribute (see Table 1) of a group of similar trips
+
+Presentation:
+UML Class Diagram - Steve
+Features:
+	1 - Steve 
+	3 - Chris 
+	6 - Brycen
+	7 - Brycen 
+	15 - Sam
+Sequence Diagram - Sam 
+Changes if we started over - Chris(Hash Map) , Bryce(Time Class) 

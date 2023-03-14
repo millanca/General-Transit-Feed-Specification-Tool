@@ -1,0 +1,11 @@
+PresentationPlans:
+UML Class Diagram - Steve
+Features:
+  GUI - Brycen
+	1 - Steve
+	6 - Brycen
+	7 - Brycen
+	3 - Chris 
+	15 - Sam
+Sequence Diagram - Sam 
+Changes if we started over - Chris(Hash Map) , Bryce(Time Class) 
